@@ -1,7 +1,7 @@
 # How to install iconservice in Archlinux
 
 
-Write this guide for this [discuss](https://www.icondev.io/discuss/5d76c519fe6149005a3d6104)
+This guide is written for this [discussion](https://www.icondev.io/discuss/5d76c519fe6149005a3d6104).
 
 
 
